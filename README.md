@@ -5,9 +5,9 @@ Backend · Distributed Systems · Cloud Architecture
 </h3>
 
 <p align="center">
-<a href="https://portfolio.dacovasan.dev/">Portfolio</a> ·
-<a href="https://linkedin.com/in/daniel-covarrubias">LinkedIn</a> ·
-<a href="mailto:dacovasan00@gmail.com">Email</a>
+<a href="https://portfolio.dacovasan.dev/" target="_blank">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/daniel-covarrubias-a5b2b7191/"target="_blank">LinkedIn</a> ·
+<a href="mailto:dacovasan00@gmail.com"target="_blank">Email</a>
 </p>
 
 ---
